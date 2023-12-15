@@ -293,7 +293,7 @@ def trace_image():
         messagebox.showerror("错误", f"报错: {e}")
 
 def show_developer_info():
-    developer_info = "开发者信息：\n开发者:键狐\n©2023 YuexuChen \n本项目为免费开源项目,如果付费购买该软件,请立即退款!"
+    developer_info = "开发者信息：\n开发者:键狐 \n Github: https://github.com/jianhuxwx/invisomark/  \n本项目为免费开源项目,如果付费购买该软件,请立即退款!"
     messagebox.showinfo("开发者信息", developer_info)
 
 app = ctk.CTk()
