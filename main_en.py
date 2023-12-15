@@ -295,7 +295,7 @@ def trace_image():
         messagebox.showerror("Error", f"Error: {e}")
          
 def show_developer_info():
-    developer_info = "Developer information:\nDeveloper: Keyfox\n©2023 YuexuChen \nThis project is a free open source project. If you paid to purchase this software, please get a refund immediately!"
+    developer_info = "Developer information:\nDeveloper: Keyfox \n Github: https://github.com/jianhuxwx/invisomark/ \nThis project is a free open source project. If you paid to purchase this software, please get a refund immediately!"
     messagebox.showinfo("Developer information", developer_info)
         
 app = ctk.CTk() 
