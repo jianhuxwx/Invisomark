@@ -1,3 +1,6 @@
+##IMPORTANT!!!!
+Due to personal reasons, the Invisomark project will be Archived soon.
+
 # INVISOMARK: Invisible Watermarking Tool
 
 ![LOGO](https://github.com/jianhuxwx/invisomark/assets/114718101/2c8f4a9b-628d-4ac3-883e-c0882a091758)
